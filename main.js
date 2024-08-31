@@ -6,7 +6,7 @@ var weight = '6 lbs 3.8 oz';
 var baby_length = '19 in';
 
 // forces progress to reset - useful to testing, just change the number
-var resetcache = '13';
+var resetcache = '17';
 
 this.wordle = this.wordle || {},
 this.wordle.bundle = function(e) {
