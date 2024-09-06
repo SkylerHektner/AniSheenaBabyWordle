@@ -1,12 +1,12 @@
-var first_name = 'Poppy' // this is the solution to the puzzle
-var full_name = 'Poppy Vadapalli'; // this is the one that shows after you beat the puzzle, EG "Introducing Poppy Vadapalli"
-var born_at = '9:08pm';
-var date_on = 'February 8, 2022';
-var weight = '6 lbs 3.8 oz';
-var baby_length = '19 in';
+var first_name = 'Anara' // this is the solution to the puzzle
+var full_name = 'Anara Vadapalli'; // this is the one that shows after you beat the puzzle, EG "Introducing Poppy Vadapalli"
+var born_at = '8:46pm';
+var date_on = 'September 5, 2024';
+var weight = '7 lbs 6 oz';
+var baby_length = '20 in';
 
 // forces progress to reset - useful to testing, just change the number
-var resetcache = '17';
+var resetcache = '18';
 
 this.wordle = this.wordle || {},
 this.wordle.bundle = function(e) {
